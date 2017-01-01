@@ -1,0 +1,22 @@
+Ovaj txt. fajl sluzi da se u njega dodaju komentari kada nesto radite na gitu.
+npr. kada nesto promijenite u kodu napisite u ovom fajlu gdje ste to mijenjali 
+ili ako nesto cackate po gitu pa se nesto zezne opet napisete u ovaj fajl da mozemo
+lakse skontati u cemu je problem. Ovo je Testna aplikacija ako neko ima zelju da nesto radi
+neka slobodno cacka i neka okaci na git.
+DON'T FORGET: KOD NA GIT-u UVIJEK MORA BITI BUILD-abilan(znaci kada klonirate repozitorijum
+	      kod sebe na komp i nesto mijenjate uvijek obavezno provijerite da li vam kod radi
+	      prije nego sto ga postavite na GIT!!! Srecno drugari :)
+
+KOMENTARI:
+-----------------------------------------------
+
+
+
+
+
+
+
+
+
+PROBLEMI:
+----------------------------------------------		
